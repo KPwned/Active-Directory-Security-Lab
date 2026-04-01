@@ -60,13 +60,16 @@ https://192.168.10.10:8000
 - Opened PowerShell as Administrator  
 - Navigated to Sysmon directory:
 ![](../screenshots/setup/windows10/13extractsysmon.png)
-![alt text](../screenshots/setup/windows10/14extractfile.png)
+![](../screenshots/setup/windows10/14extractfile.png)
+
 ```powershell
 cd <Sysmon_Path>
 ```
-![alt text](../AD-Splunk-SOC-Lab/screenshots/setup/windows10/14extractfile.png)
+![alt text](../screenshots/setup/windows10/14extractfile.png)
 Installed Sysmon with configuration:
+
 ![alt text](../screenshots/setup/windows10/16openpowershel.png)
+
 ```bash
 .\Sysmon64.exe -i ..\sysmonconfig.xml
 ```
