@@ -31,20 +31,20 @@ This project demonstrates a complete Security Operations Center (SOC) lab built 
 - Domain: **bhuvan.local**
 
 
-![alt text](screenshots/topology/AD.jpg)
+![alt text](AD-Splunk-SOC-Lab/screenshots/topology/AD.jpg)
 ---
 
 # ⚙️ Setup Guide (Click to Open)
  
-- 👉[Network Configuration](setup/network-configuration.md)
-- 👉[Splunk Installation](setup/splunk-installation.md)
-- 👉[Windows 10 (Target machine)](setup/windows-target-setup.md)
-- 👉[Active Directory](setup/ad-server-setup.md)
+- 👉[Network Configuration](AD-Splunk-SOC-Lab/setup/network-configuration.md)
+- 👉[Splunk Installation](AD-Splunk-SOC-Lab/setup/splunk-installation.md)
+- 👉[Windows 10](AD-Splunk-SOC-Lab/setup/windows-target-setup.md)
+- 👉[Active Directory](AD-Splunk-SOC-Lab/setup/ad-server-setup.md)
 ---
 
 # ⚔️ Attack Simulation (Click to Open)
 
-- 👉 [Attack Simulation](attack-simulation/attack.md)
+- 👉 [Attack simulation](AD-Splunk-SOC-Lab/attack-simulation/attack.md)
 
 
 ---
@@ -52,7 +52,7 @@ This project demonstrates a complete Security Operations Center (SOC) lab built 
 
 # 📄 Documentation (Click to Open)
 
-- 👉[Report](docs/full-report.md)
+- 👉[Report](AD-Splunk-SOC-Lab/docs/full-report.md)
 
 ---
 
@@ -68,9 +68,9 @@ This project demonstrates a complete Security Operations Center (SOC) lab built 
 ## 📸 Sample Detection
 
 👉 Failed login detection (Event ID 4625)
-![alt text](screenshots/attack/26.png)
-![alt text](screenshots/attack/27.png)
 
+![alt text](AD-Splunk-SOC-Lab/screenshots/attack/26.png)
+![alt text](AD-Splunk-SOC-Lab/screenshots/attack/27.png)
 ---
 
 ---
