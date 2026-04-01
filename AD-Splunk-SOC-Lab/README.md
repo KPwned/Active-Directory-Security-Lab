@@ -35,12 +35,11 @@ This project demonstrates a complete Security Operations Center (SOC) lab built 
 ---
 
 # ⚙️ Setup Guide (Click to Open)
-
-- 👉 [🌐 Network Configuration](./AD-Splunk-SOC-Lab/setup/network-configuration.md)  
-- 👉 [🔍 Splunk Installation (Ubuntu)](./AD-Splunk-SOC-Lab/setup/splunk-installation.md)  
-- 👉 [🖥️ Windows 10 Target Setup](./AD-Splunk-SOC-Lab/setup/windows-target-setup.md)  
-- 👉 [🏢 Active Directory Server Setup](./AD-Splunk-SOC-Lab/setup/ad-server-setup.md)  
-
+ 
+- 👉[Network Configuration](setup/network-configuration.md)
+- 👉[Splunk Installation](setup/splunk-installation.md)
+- 👉[Windows 10 (Target machine)](setup/windows-target-setup.md)
+- 👉[Active Directory](setup/ad-server-setup.md)
 ---
 
 # ⚔️ Attack Simulation (Click to Open)
